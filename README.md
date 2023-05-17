@@ -1,4 +1,4 @@
 # boxblur
-Box blur implementation in python
 
-Python package for box blur
+Implementation of the box blur kerenel in python.
+I plan to turn it into a python package.
